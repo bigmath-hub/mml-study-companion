@@ -5,6 +5,7 @@ This repository contains Python implementation of mathematical concepts from the
 The goal is to build a solid fundation in Linear Algebra, Calculus, and Probability by translating theory into code (NumPy) from scratch
 
 ## Progress Log
+- Progress log: docs/progress.md
 
 ### Part I: Mathematical Foundations
 
